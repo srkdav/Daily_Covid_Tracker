@@ -1,1 +1,1 @@
-# Daily-_Covid_Tracker
+# Worldwide Covid-19 Tracker
